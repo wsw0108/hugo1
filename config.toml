@@ -1,0 +1,11 @@
+baseURL = 'http://example.org/'
+theme = "ananke"
+#languageCode = 'en-us'
+defaultContentLanguage = "en"
+[languages]
+    [languages.zh]
+        title = "测试Blog"
+        weight = 2
+    [languages.en]
+        title = "Test Blog"
+        weight = 1
