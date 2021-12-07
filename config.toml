@@ -1,11 +1,17 @@
 baseURL = 'http://example.org/'
-theme = "ananke"
-#languageCode = 'en-us'
+
 defaultContentLanguage = "en"
-[languages]
-    [languages.zh]
-        title = "测试Blog"
-        weight = 2
-    [languages.en]
-        title = "Test Blog"
-        weight = 1
+languageCode = 'en-us'
+
+theme = "ananke"
+
+[imaging]
+# See https://github.com/disintegration/imaging
+# CatmullRom is a sharp bicubic filter which should fit the docs site well with its many screenshots.
+# Note that you can also set this per image processing.
+resampleFilter = "CatmullRom"
+
+# Default JPEG quality setting. Default is 75.
+quality = 75
+
+anchor = "smart"

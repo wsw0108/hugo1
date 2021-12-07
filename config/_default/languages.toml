@@ -1,0 +1,6 @@
+[en]
+    title = "Test Blog"
+    weight = 1
+[zh]
+    title = "测试Blog"
+    weight = 2

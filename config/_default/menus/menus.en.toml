@@ -1,0 +1,32 @@
+[[docs]]
+name = "intro"
+weight = 1
+post = "break"
+identifier = "intro"
+url = "/url/"
+
+[[docs]]
+name = "api"
+weight = 5
+post = "break"
+identifier = "api"
+url = "/api/"
+
+[[docs]]
+name = "example"
+weight = 10
+post = "break"
+identifier = "example"
+url = "/example/"
+
+[[main]]
+name = "p1"
+weight = 1
+identifier = "p1"
+url = "/p1/"
+
+[[main]]
+name = "p2"
+weight = 5
+identifier = "p2"
+url = "/p2/"

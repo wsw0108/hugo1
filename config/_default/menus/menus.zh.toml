@@ -1,0 +1,32 @@
+[[docs]]
+name = "介绍"
+weight = 1
+post = "break"
+identifier = "intro"
+url = "/zh/url/"
+
+[[docs]]
+name = "接口"
+weight = 5
+post = "break"
+identifier = "api"
+url = "/zh/api/"
+
+[[docs]]
+name = "示例"
+weight = 10
+post = "break"
+identifier = "example"
+url = "/zh/example/"
+
+[[main]]
+name = "产品p1"
+weight = 1
+identifier = "p1"
+url = "/zh/p1/"
+
+[[main]]
+name = "产品p2"
+weight = 5
+identifier = "p2"
+url = "/zh/p2/"
